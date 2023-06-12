@@ -5,7 +5,7 @@ Clopper-Pearson generalization bound is used as an efficient tool to select a ru
 also determining the minimum amount of data required for model training. Robustness, in terms of the model’s ability to recognize out-of-distribution samples is investigated, by comparing the different rates of satisfaction of rules in presence of training or operational data, which is quantified via simple statistics, mutual information, l1 and l2 norms.
 
 The workflow is summarized in the picture below:
-![workflow_new](https://github.com/saranrt95/TrustEqB/assets/77918497/7bcc257b-d489-4f73-807b-e1c4456971bc){width = "50%" height = "50%"}
+![workflow_new](https://github.com/saranrt95/TrustEqB/assets/77918497/7bcc257b-d489-4f73-807b-e1c4456971bc = 100x200)
 
 # Description
 - OutTrain6.txt: the dataset coming from simulation
