@@ -6,8 +6,11 @@ also determining the minimum amount of data required for model training. Robustn
 
 
 # Description
+- db building for training.cpp: simulation code to generate the dataset (uses sobol6x10000.txt)
 - OutTrain6.txt: the dataset coming from simulation
 - train3000_rules.csv: the XAI model for EqB control
 - ClopperPearsonGeneralization folder: data and code for model selection via Clopper-Pearson bound
+- control application.cpp: code that applies the XAI model to the bandwidth control problem and generates the number of hits for robustness tests
 - RobustnessTest: data and code for out-of-distribution detection
+
 
