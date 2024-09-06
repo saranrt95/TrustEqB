@@ -1,5 +1,6 @@
 # TrustEqB
-This repository contains the code and data to reproduce the experiments carried out in the paper: _Narteni S., Muselli M., Dabbene F., Mongelli M. (2023). Trustworthy Artificial Intelligence Classification-based Equivalent Bandwidth Control, currently under review for Elsevier-Computer Communications journal_.
+This repository contains the code and data to reproduce the experiments carried out in the paper: _Narteni, S., Muselli, M., Dabbene, F., & Mongelli, M. (2023). Trustworthy artificial intelligence classification-based equivalent bandwidth control. Computer Communications, 209, 260-272_.
+
 It deals with the combined usage of control and rule-based classification for the EqB allocation, in the context of trustworthy AI.
 Clopper-Pearson generalization bound is used as an efficient tool to select a rule-based model that performs adequately,
 also determining the minimum amount of data required for model training. Robustness, in terms of the model’s ability to recognize out-of-distribution samples is investigated, by comparing the different rates of satisfaction of rules in presence of training or operational data, which is quantified via simple statistics, mutual information, l1 and l2 norms.
